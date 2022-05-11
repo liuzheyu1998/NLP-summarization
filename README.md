@@ -1,3 +1,5 @@
+# AMR based summarization
+### Group Member: António Câmara, Mike Deng, Bobby Hua, Zheyu Liu, Zongmin Yin
 
 ## Code 
 AMR-Dialogue: 
