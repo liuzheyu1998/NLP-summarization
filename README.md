@@ -1,5 +1,5 @@
 # AMR based summarization
-### Group Member: António Câmara, Mike Deng, Bobby Hua, Zheyu Liu, Zongmin Yin
+### Group Member: Zheyu Liu, Bobby Hua, Mike Deng, Zongmin Yin, António Câmara   
 
 ## Code 
 AMR-Dialogue: 
@@ -18,3 +18,6 @@ https://drive.google.com/file/d/1s0GdryXbYZws16AOKR3FP-ZIH1maXuPb/view?usp=shari
 ## Inference Result
 The inference result of different versions of our model on different dataset we created could be found in this link:
 https://drive.google.com/file/d/1DLVGtq0Vfeyv_JSuY81xKC0ZsDJNk4qU/view?usp=sharing
+
+## The detailed result could be found here 
+![4995_Poster](https://user-images.githubusercontent.com/46538726/172262864-e029e2c7-c746-4063-ba46-0b95a374444b.png)
