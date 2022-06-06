@@ -1,4 +1,4 @@
-# AMR based summarization
+# AMR based dialogue summarization
 ### Group Member: Zheyu Liu, Bobby Hua, Mike Deng, Zongmin Yin, António Câmara   
 
 ## Code 
